@@ -3,7 +3,7 @@ import random
 import math
 import matplotlib.pyplot as plt
 import copy
-import fun_function
+import Functions
 # --------------------------------------Defines--------------------------------------
 # Orya: change below
 N = 6  # num of vertex
