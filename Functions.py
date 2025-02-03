@@ -2,7 +2,7 @@ import random
 import heapq
 import matplotlib.pyplot as plt
 import copy
-from Fun import Cluster
+from Simulation import Cluster
 import numpy as np
 def CalcNetworkRate(network, alpha, Algorithm, N=1e5):
     network.initial_users_rates()
