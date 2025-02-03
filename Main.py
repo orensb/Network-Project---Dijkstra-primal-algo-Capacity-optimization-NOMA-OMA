@@ -1,7 +1,7 @@
 import time
 import matplotlib.pyplot as plt
-import fun_function
-import Fun
+import Functions
+import Simulation
 
 
 def print_simulation_options():
